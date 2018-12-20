@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339800165142",
+    "firebase_url": "https://darzi-master.firebaseio.com",
+    "project_id": "darzi-master",
+    "storage_bucket": "darzi-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339800165142:android:03ff3b9cac256325",
+        "android_client_info": {
+          "package_name": "com.example.umairbscs.darzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339800165142-s1ooqst88u2nf9ks6jekgusrkkdk5pvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umairbscs.darzi",
+            "certificate_hash": "493c9cb4c2a5000bd4e1c6e6dce8f73872c4aa01"
+          }
+        },
+        {
+          "client_id": "339800165142-unjp9apm34hdb14is4c0bg5svij69r8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwl_LMIFRnrfYUdyfTTmL3XKJqKolQDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339800165142-unjp9apm34hdb14is4c0bg5svij69r8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
